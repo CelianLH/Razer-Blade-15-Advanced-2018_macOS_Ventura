@@ -1,6 +1,6 @@
 # Razer-Blade-15-Advanced-2018_macOS_Ventura
 <img width="1600" alt="截屏2022-10-28 16 53 02" src="https://user-images.githubusercontent.com/38421842/198561085-98cbc7e9-66d3-489e-8d35-66b0706796be.png">
-<img width="1600" alt="截屏2022-10-28 16 58 11" src="https://user-images.githubusercontent.com/38421842/198561095-a3c3f3dc-fe3b-4634-9a22-6964aaa264a4.png">
+<img width="1600" alt="截屏2022-10-28 16 58 11" src="https://user-images.githubusercontent.com/38421842/198570877-a22f9549-cc78-4725-a4b0-e9c544f95bb2.png">
 
 ## [1] 软硬件介绍
 
