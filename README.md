@@ -7,18 +7,19 @@
 |        项目      |        型号         |                   可用性                   |
 | :----------: | :-----------------: | :------------------------------------------: |
 |     CPU      |      i7-8750H       |                     正常                     |
-|     GPU      |  Nvdia 1070 Max-Q   |                     不可用                   |
+|     GPU0     |  Intel UHD630   |                     正常                   |
+|     GPU1      |  Nvidia 1070 Max-Q   |                     不可用                   |
 |     硬盘     | Hikvision C2000Pro   |                     正常                     |
-|     网卡     |       Intel AC9260       |           WIFI、蓝牙可用                   |
+|     网卡     |       Intel AC 9260       |           WIFI、蓝牙可用                   |
 |    显示器    |        1080P        |                     正常                     |
 |    摄像头    |                     |                     正常                     |
 |    扬声器    |                     |                     正常                     |
 |    耳机    |                       |           正常                              |
 |    麦克风    |                     |       正常                               |
-|    触控板    |                     |             正常                          |
+|    触摸板    |                     |             正常                          |
 |    OpenCore    |    0.8.5_MOD        |             正常启动Windows                          |
 
 ## [2] 参考内容
-1、[RazerBlade15-Base-Model-Hackintosh](https://github.com/bilibili20001/RazerBlade15-Base-Model-Hackintosh)  
-2、[RazerBlade15-Base-Model-Hackintosh_macOS_Ventura](https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Ventura)  
-3、[Razer-Blade-15-Advanced-2018-Hackintosh](https://github.com/doanhxd/Razer-Blade-15-Advanced-2018-Hackintosh)  
+1、[Razer-Blade-15-Advanced-2018-Hackintosh](https://github.com/doanhxd/Razer-Blade-15-Advanced-2018-Hackintosh)  
+2、[RazerBlade15-Base-Model-Hackintosh](https://github.com/bilibili20001/RazerBlade15-Base-Model-Hackintosh)  
+3、[RazerBlade15-Base-Model-Hackintosh_macOS_Ventura](https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Ventura)  
