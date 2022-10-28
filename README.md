@@ -12,7 +12,7 @@
 |     GPU0     |  Intel UHD630   |                     ✓                   |
 |     GPU1      |  Nvidia 1070 Max-Q   |                     ✕                   |
 |     硬盘     | Hikvision C2000Pro   |                     ✓                     |
-|     网卡     |       Intel AC 9260       |           WIFI、BT✓                   |
+|     网卡     |       Intel AC 9260       |           WIFI✓、BT✓                   |
 |    显示器    |        1080P        |                     ✓                     |
 |    摄像头    |                     |                     ✓                     |
 |    扬声器    |                     |                     ✓                     |
